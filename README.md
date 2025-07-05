@@ -3,13 +3,13 @@
 ## Introduction
 This project presents a machine learning approach using a healthcare dataset to predict the likelihood of a stroke event.
 
-##Models Used
+## Models Used
 1. Random Forest
 2. Support Vector Machines
 3. Decision Tree
 4. K-Nearest Neighbors
 
-The following project is based on detecting brain stroke. The project includes the following attributes:
+## The project includes the following attributes:
 1. Exporing the dataset. Identifying unique values and anomaly.
 2. Cleaning the dataset.
 3. Outlier detection.
